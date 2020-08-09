@@ -6,3 +6,5 @@ App from NLW#2 Rocketseat
 
 
 ![img](https://github.com/remilsonpassos/Proffy/blob/master/proffy-study.PNG)
+
+![img](https://github.com/remilsonpassos/Proffy/blob/master/proffy-give-classes.PNG)
